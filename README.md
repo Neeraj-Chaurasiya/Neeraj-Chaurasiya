@@ -3,7 +3,7 @@ Data Analyst | Python, Pandas, SQL | Freelancing-ready projects
 
 ## 🔭 Featured Projects
 - [Sales Analysis](https://github.com/Neeraj-Chaurasiya/sales-analysis) — EDA, charts & Excel report
-- [Web Scraping Books](https://github.com/<your-username/web-scraping-books) — multi-page scraper
+- [Web Scraping Books](https://github.com/Neeraj-Chaurasiya/web-scraping-books) — multi-page scraper
 - [Books Dashboard](https://github.com/<your-username>/books-dashboard) — automated report
 
 ## 🛠 Tech
