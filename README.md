@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Neeraj Shrikesh Chaurasiya 👋
+Data Analyst | Python, Pandas, SQL | Freelancing-ready projects
 
-<!--
-**Neeraj-Chaurasiya/Neeraj-Chaurasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Featured Projects
+- [Sales Analysis](https://github.com/Neeraj-Chaurasiya/sales-analysis) — EDA, charts & Excel report
+- [Web Scraping Books](https://github.com/<your-username/web-scraping-books) — multi-page scraper
+- [Books Dashboard](https://github.com/<your-username>/books-dashboard) — automated report
 
-Here are some ideas to get you started:
+## 🛠 Tech
+Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup • SQL • Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+Email: neerajchaurasiya.com · LinkedIn: https://linkedin.com/in/yourname
+
