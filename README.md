@@ -10,5 +10,6 @@ Data Analyst | Python, Pandas, SQL | Freelancing-ready projects
 Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup • SQL • Excel
 
 ## 📫 Contact
-Email: neerajchaurasiya.com · LinkedIn: https://linkedin.com/in/NEERAJ CHAURASIYA
+Email: neerajchaurasiya.com · LinkedIn: https://linkedin.com/in/neeraj-chaurasiya
+
 
