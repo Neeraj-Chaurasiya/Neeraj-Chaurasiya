@@ -5,6 +5,7 @@ Data Analyst | Python, Pandas, SQL | Freelancing-ready projects
 - [Sales Analysis](https://github.com/Neeraj-Chaurasiya/sales-analysis) — EDA, charts & Excel report
 - [Web Scraping Books](https://github.com/Neeraj-Chaurasiya/web-scraping-books) — multi-page scraper
 - [Books Dashboard](https://github.com/Neeraj-Chaurasiya/books-dashboard) — automated report
+- [E-Commerce SQL Case Study](https://github.com/<your-username>/Ecommerce-SQL-CaseStudy)
 
 ## 🛠 Tech
 Python • Pandas • NumPy • Matplotlib • Seaborn • BeautifulSoup • SQL • Excel
