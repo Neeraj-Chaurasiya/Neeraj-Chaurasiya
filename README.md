@@ -2,6 +2,7 @@
 Data Analyst | Python, Pandas, SQL | Freelancing-ready projects
 
 ## 🔭 Featured Projects
+- [Traffic sign detection system](https://github.com/Neeraj-Chaurasiya/TRAFFIC-SIGN-RECOGNITION-SYSTEM) — CNN trained model
 - [Sales Analysis](https://github.com/Neeraj-Chaurasiya/sales-analysis) — EDA, charts & Excel report
 - [Web Scraping Books](https://github.com/Neeraj-Chaurasiya/web-scraping-books) — multi-page scraper
 - [Books Dashboard](https://github.com/Neeraj-Chaurasiya/books-dashboard) — automated report
